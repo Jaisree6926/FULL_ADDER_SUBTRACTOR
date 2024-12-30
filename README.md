@@ -80,9 +80,9 @@ Borrow out = A'Bin + A'B + BBin
 
 **OUTPUT TIMING WAVEFORM**
 
-![Screenshot (67)](https://github.com/user-attachments/assets/7d405ddc-dffd-42f9-ba89-d79f7c50e879)
+![Screenshot (88)](https://github.com/user-attachments/assets/0d0f3d96-ce3b-4c9b-96dc-64f1a01e9a7b)
 
-![Screenshot (68)](https://github.com/user-attachments/assets/115e9a2c-9812-4f36-ae8e-ce232ba46f1d)
+![Screenshot (89)](https://github.com/user-attachments/assets/cb7915f8-6701-457c-8346-2df574729775)
 
 
 **RESULT:**
